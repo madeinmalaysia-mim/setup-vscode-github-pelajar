@@ -10,8 +10,8 @@ Di sini anda boleh belajar cara pasang VSCode, faham asas GitHub dan mulakan pro
 - Template projek contoh
 
 ## 🌐 Mula Sekarang:
-👉 [Lihat Tutorial Canva](#)  
-👉 [Fork Template Projek](#)  
+👉 [Lihat Tutorial Setup VSCode](#)  
+👉 [Projek Python](#)  
 👉 [Daftar Jika Perlukan Bimbingan](#)
 
 > Kami tak memaksa, kami menawarkan. Peluang tersedia, anda pilih jalan.
