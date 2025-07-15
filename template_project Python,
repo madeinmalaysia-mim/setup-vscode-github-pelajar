@@ -2,3 +2,29 @@ template_project/
 ├── README.md           ← Panduan ringkas untuk pelajar
 ├── main.py             ← Kod Python contoh “Hello Dunia”
 └── assets/             ← (Opsyenal) gambar, ikon, dll.
+
+# Projek Python MIM Nusantara
+
+Selamat datang ke contoh projek Python khas untuk pelajar TVETGO Nusantara!  
+Repositori ini direka untuk membantu anda bermula dengan kod, fahami struktur projek, dan mula berkomunikasi dalam dunia digital.
+
+## 📁 Kandungan Folder
+- `main.py` — Kod permulaan bertema “Hello Dunia”
+- `README.md` — Panduan projek & langkah permulaan
+- `assets/` — Folder tambahan untuk gambar/icon (jika ada)
+
+## 📌 Langkah Seterusnya
+1. Buka fail `main.py` dan baca kod asas
+2. Cuba ubah mesej dalam kod agar lebih mencerminkan semangat anda!
+3. Fork repositori ini dan cipta versi anda sendiri 🚀
+
+---
+
+> “Kod bukan sekadar arahan logik,  
+> Tapi jiwa belia melakar jejak digital Nusantara.”
+
+---
+
+## 🤝 Sokongan & Bimbingan
+Jika perlukan bantuan atau ingin bertanya soalan, sila hubungi mentor atau fasilitator yang disenaraikan dalam halaman utama.
+
