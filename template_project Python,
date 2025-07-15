@@ -1,0 +1,4 @@
+template_project/
+├── README.md           ← Panduan ringkas untuk pelajar
+├── main.py             ← Kod Python contoh “Hello Dunia”
+└── assets/             ← (Opsyenal) gambar, ikon, dll.
